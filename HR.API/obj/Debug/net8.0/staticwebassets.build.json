@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "0kfPKELGsN9TcwgAkwuviX2PRa0nZZhpWuX74fESSNE=",
+  "Source": "HR.API",
+  "BasePath": "_content/HR.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HR.API\\wwwroot",
+      "Source": "HR.API",
+      "ContentRoot": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\",
+      "BasePath": "_content/HR.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\index-Dla6ZdmG.js",
+      "SourceId": "HR.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\",
+      "BasePath": "_content/HR.API",
+      "RelativePath": "assets/index-Dla6ZdmG#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "410lt0wh2o",
+      "Integrity": "mI8TLJZr8lX8gv1pjeqqPGFE9cVXct6zjbnlcNG9SQo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-Dla6ZdmG.js"
+    },
+    {
+      "Identity": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\index-n_ryQ3BS.css",
+      "SourceId": "HR.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\",
+      "BasePath": "_content/HR.API",
+      "RelativePath": "assets/index-n_ryQ3BS#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yx5ob706lz",
+      "Integrity": "Fhustp9yrqgbBhpHTtv/oV/Q1Y292/c74tNlXFXP4dY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-n_ryQ3BS.css"
+    },
+    {
+      "Identity": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\react-CHdo91hT.svg",
+      "SourceId": "HR.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\",
+      "BasePath": "_content/HR.API",
+      "RelativePath": "assets/react-CHdo91hT#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7trw0vijr1",
+      "Integrity": "Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\react-CHdo91hT.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\index.html",
+      "SourceId": "HR.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\",
+      "BasePath": "_content/HR.API",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qww87zo22x",
+      "Integrity": "misq3SnRlslFFvv+oYtxCl0sbD2fHRvLoIi7Is0X+Jw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\vite.svg",
+      "SourceId": "HR.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\",
+      "BasePath": "_content/HR.API",
+      "RelativePath": "vite#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69kjnsiwqx",
+      "Integrity": "SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/index-Dla6ZdmG.410lt0wh2o.js",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\index-Dla6ZdmG.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mI8TLJZr8lX8gv1pjeqqPGFE9cVXct6zjbnlcNG9SQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "410lt0wh2o"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-Dla6ZdmG.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mI8TLJZr8lX8gv1pjeqqPGFE9cVXct6zjbnlcNG9SQo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-Dla6ZdmG.js",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\index-Dla6ZdmG.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mI8TLJZr8lX8gv1pjeqqPGFE9cVXct6zjbnlcNG9SQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mI8TLJZr8lX8gv1pjeqqPGFE9cVXct6zjbnlcNG9SQo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-n_ryQ3BS.css",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\index-n_ryQ3BS.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fhustp9yrqgbBhpHTtv/oV/Q1Y292/c74tNlXFXP4dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fhustp9yrqgbBhpHTtv/oV/Q1Y292/c74tNlXFXP4dY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-n_ryQ3BS.yx5ob706lz.css",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\index-n_ryQ3BS.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fhustp9yrqgbBhpHTtv/oV/Q1Y292/c74tNlXFXP4dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yx5ob706lz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-n_ryQ3BS.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fhustp9yrqgbBhpHTtv/oV/Q1Y292/c74tNlXFXP4dY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/react-CHdo91hT.7trw0vijr1.svg",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\react-CHdo91hT.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7trw0vijr1"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/react-CHdo91hT.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/react-CHdo91hT.svg",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\react-CHdo91hT.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ne9h7VOzI66UoWqOxlmz0K84gGmHkRM/I7CECFqxwuU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"misq3SnRlslFFvv+oYtxCl0sbD2fHRvLoIi7Is0X+Jw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-misq3SnRlslFFvv+oYtxCl0sbD2fHRvLoIi7Is0X+Jw="
+        }
+      ]
+    },
+    {
+      "Route": "index.qww87zo22x.html",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"misq3SnRlslFFvv+oYtxCl0sbD2fHRvLoIi7Is0X+Jw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qww87zo22x"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-misq3SnRlslFFvv+oYtxCl0sbD2fHRvLoIi7Is0X+Jw="
+        }
+      ]
+    },
+    {
+      "Route": "vite.69kjnsiwqx.svg",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69kjnsiwqx"
+        },
+        {
+          "Name": "label",
+          "Value": "vite.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    },
+    {
+      "Route": "vite.svg",
+      "AssetFile": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\vite.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 14:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SnSK/UQ5GLsWWRyDTEAdrjPoeGGrXbrQgRw6O0qSFPs="
+        }
+      ]
+    }
+  ]
+}

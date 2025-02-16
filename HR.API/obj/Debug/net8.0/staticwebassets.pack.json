@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\index-Dla6ZdmG.js",
+      "PackagePath": "staticwebassets\\assets\\index-Dla6ZdmG.js"
+    },
+    {
+      "Id": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\index-n_ryQ3BS.css",
+      "PackagePath": "staticwebassets\\assets\\index-n_ryQ3BS.css"
+    },
+    {
+      "Id": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\assets\\react-CHdo91hT.svg",
+      "PackagePath": "staticwebassets\\assets\\react-CHdo91hT.svg"
+    },
+    {
+      "Id": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Niceyar\\Downloads\\HRV3-master\\HRV3-master\\HR.API\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HR.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HR.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HR.API.props",
+      "PackagePath": "build\\HR.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HR.API.props",
+      "PackagePath": "buildMultiTargeting\\HR.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HR.API.props",
+      "PackagePath": "buildTransitive\\HR.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
